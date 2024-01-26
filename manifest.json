@@ -1,0 +1,12 @@
+{
+    "name":"Cricket Extension",
+    "version":"1.0",
+    "description":"Cricket Matches",
+    "manifest_version":3,
+    "author":"Saksham",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"logos.png"
+        
+    }
+} 
